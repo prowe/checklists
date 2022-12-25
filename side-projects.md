@@ -7,3 +7,5 @@
 - [ ] Create a federated graph of the Source Allies teammate/project data.
 - [ ] Do something cool with SVG & CSS transforms
 - [ ] Use Event Sourcing or AWS Step Functions to create a Utilization Review system
+- [ ] Update thr sai library code base
+- [ ] setup library to checkout non-book items. 
