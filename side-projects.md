@@ -10,3 +10,4 @@
 - [ ] Update the sai library code base
 - [ ] Setup library to checkout non-book items. 
 - [ ] serverless search service. 
+- [ ] detemine the IaC capabilities of aws connect
