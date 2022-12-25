@@ -12,5 +12,7 @@
 - [ ] serverless search service. 
 - [ ] detemine the IaC capabilities of aws connect
 - [ ] smart thermostat using rust. 
+- [ ] build a rust os. https://os.phil-opp.com/
+
 
 
