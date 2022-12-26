@@ -13,6 +13,8 @@
 - [ ] detemine the IaC capabilities of aws connect
 - [ ] smart thermostat using rust. 
 - [ ] build a rust os. https://os.phil-opp.com/
+- [ ] could a data model be created to back an html based MUD?
+- [ ] create a project management tool as a hierarchy of tasks backed by a graph database. 
 
 
 
