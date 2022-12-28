@@ -18,5 +18,7 @@
 - [ ] can react components be stored in a database, dynamically transpiled and fetched to the client for rendering?
 - [ ] generate a pdf in a lambda using react. 
 - [ ] can aws send/receive a fax?
+- [ ] how smooth is deno on lambda?
+
 
 
