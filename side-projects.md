@@ -16,5 +16,7 @@
 - [ ] could a data model be created to back an html based MUD?
 - [ ] create a project management tool as a hierarchy of tasks backed by a graph database. 
 - [ ] can react components be stored in a database, dynamically transpiled and fetched to the client for rendering?
+- [ ] generate a pdf in a lambda using react. 
+- [ ] can aws send/receive a fax?
 
 
