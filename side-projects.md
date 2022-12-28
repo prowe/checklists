@@ -6,6 +6,7 @@
     - maybe Backgammon, Kyle would be interested in this
 - [ ] Create a federated graph of the Source Allies teammate/project data.
 - [ ] Do something cool with SVG & CSS transforms
+    maybe a 9 part slider puzzle?
 - [ ] Use Event Sourcing or AWS Step Functions to create a Utilization Review system
 - [ ] Update the sai library code base
 - [ ] Setup library to checkout non-book items. 
