@@ -24,5 +24,5 @@
 - [ ] how smooth is deno on lambda?
 - [ ] pEer 2 peer twitter clone w/o central control
 - [ ] some sort of smart contract?
-
+- [ ] implement a mastadon server that can injest posts and index them?
 
