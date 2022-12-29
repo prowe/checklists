@@ -10,7 +10,9 @@
 - [ ] Use Event Sourcing or AWS Step Functions to create a Utilization Review system
 - [ ] Update the sai library code base
 - [ ] Setup library to checkout non-book items. 
-- [ ] serverless search service. 
+- [ ] serverless search service.
+    https://docs.aws.amazon.com/opensearch-service/latest/developerguide/request-signing.html#request-signing-node
+    maybe a ndc code lookup?
 - [ ] detemine the IaC capabilities of aws connect
 - [ ] smart thermostat using rust. 
 - [ ] build a rust os. https://os.phil-opp.com/
@@ -20,6 +22,7 @@
 - [ ] generate a pdf in a lambda using react. 
 - [ ] can aws send/receive a fax?
 - [ ] how smooth is deno on lambda?
-
+- [ ] pEer 2 peer twitter clone w/o central control
+- [ ] some sort of smart contract?
 
 
