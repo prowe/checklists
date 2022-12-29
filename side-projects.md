@@ -25,4 +25,6 @@
 - [ ] pEer 2 peer twitter clone w/o central control
 - [ ] some sort of smart contract?
 - [ ] implement a mastadon server that can injest posts and index them?
+- [ ] Make the re-usable checklists into some sort of Github issue template?
+- [ ] Can AWS AppSync be used with Apollo Federation somehow?
 
