@@ -1,6 +1,8 @@
 name: monthly
 description: Monthly Checklist
 title: "[Monthly]: "
+labels:
+  - monthly
 body:
   - type: checkboxes
     id: tasks
