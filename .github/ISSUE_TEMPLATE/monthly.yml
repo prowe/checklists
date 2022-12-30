@@ -1,0 +1,13 @@
+name: monthly
+description: Monthly Checklist
+title: "[Monthly]: "
+body:
+  - type: checkboxes
+    id: tasks
+    attributes:
+      label: Tasks
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: Ask team if allocation is on-target
+        - label: Determine if schedule is working well
+        - label: Are there any individuals at the partner that are involved in the project that I need to build a relationship with?
