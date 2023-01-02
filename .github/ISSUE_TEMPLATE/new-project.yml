@@ -1,0 +1,23 @@
+name: new-project
+description: Joining a new Project
+title: ""
+labels:
+  - project
+body:
+  - type: checkboxes
+    id: tasks
+    attributes:
+      label: Tasks
+      options:
+        - label: Determine what role I should be on the team (ex. Dev, Coach, Moral Support)
+        - label: Determine inital time allocation
+        - label: Allocate specific blocks of time to the team
+        - label: Meet 1-on-1 with teammates
+        - label: Introduce quarks to immediate team members (volume, excitement, thought process, etc)
+        - label: Let the team know how they can reach me when not allocated (Prob Slack)
+        - label: Update other teams on allocation & schedule
+        - label: Let account managers know of allocation/schedule. Determine hour cap
+        - label: Meet 1-on-1 with closest layer of Partner teammates
+        - label: Identify professional interests & goals of each teammate (what do they want to do)
+        - label: Identify "pet peeves" of teammates (what do they want to avoid)
+        - label: Think about how long the teamates have been with Source. Are any teammates new?

@@ -1,14 +1,35 @@
 name: monthly
 description: Monthly Checklist
-title: "[Monthly]: "
+title: "yyyy-mm"
 labels:
   - monthly
 body:
+  - type: input
+    id: year
+    attributes:
+      label: Year
+      value: 2023
+  - type: dropdown
+    id: month
+    attributes:
+      label: Month
+      options:
+        - Jan
+        - Feb
+        - Mar
+        - Apr
+        - May
+        - Jun
+        - Jul
+        - Aug
+        - Sep
+        - Oct
+        - Nov
+        - Dec
   - type: checkboxes
     id: tasks
     attributes:
       label: Tasks
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
         - label: Ask team if allocation is on-target
         - label: Determine if schedule is working well

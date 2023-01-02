@@ -1,0 +1,16 @@
+name: before-meeting
+description: Before a meeting
+title: ""
+labels:
+  - before-meeting
+body:
+  - type: checkboxes
+    id: tasks
+    attributes:
+      label: Tasks
+      options:
+        - label: Determine how big the meeting is
+        - label: What is my personal goal for the meeting
+        - label: Do I have enough time?
+        - label: What are each teammates roles in the meeting.
+        - label: Is there a defined agenda for the meeting

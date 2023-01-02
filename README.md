@@ -1,4 +1,4 @@
-- [Joining a new project](./new-project.md)
-- [Monthly](./monthly.md)
-- [Before a meeting]('./before-a-meeting.md')
+- [Joining a new project](https://github.com/prowe/checklists/issues/new/choose)
+- [Monthly](https://github.com/prowe/checklists/issues/new/choose)
+- [Before a meeting](https://github.com/prowe/checklists/issues/new/choose)
 - [Side Projects]('./side-projects.md')
