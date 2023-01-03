@@ -1,8 +1,7 @@
 name: before-meeting
 description: Before a meeting
-title: ""
 labels:
-  - before-meeting
+  - before_meeting
 body:
   - type: checkboxes
     id: tasks
