@@ -5,14 +5,15 @@
 - [ ] Build a mobile app
     - maybe Backgammon, Kyle would be interested in this
 - [ ] Create a federated graph of the Source Allies teammate/project data.
-- [ ] Do something cool with SVG & CSS transforms
+- [x] Do something cool with SVG & CSS transforms
     maybe a 9 part slider puzzle?
 - [ ] Use Event Sourcing or AWS Step Functions to create a Utilization Review system
 - [ ] Update the sai library code base
 - [ ] Setup library to checkout non-book items. 
-- [ ] serverless search service.
+- [x] serverless search service.
     https://docs.aws.amazon.com/opensearch-service/latest/developerguide/request-signing.html#request-signing-node
     maybe a ndc code lookup?
+    - [ ] post this as a blog
 - [ ] detemine the IaC capabilities of aws connect
 - [ ] smart thermostat using rust. 
 - [ ] build a rust os. https://os.phil-opp.com/
