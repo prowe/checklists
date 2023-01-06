@@ -29,3 +29,4 @@
 - [ ] Make the re-usable checklists into some sort of Github issue template?
 - [ ] Can AWS AppSync be used with Apollo Federation somehow?
     https://aws.amazon.com/blogs/mobile/federation-appsync-subgraph/
+- [ ] read this rust concurrency book. https://marabos.nl/atomics/
