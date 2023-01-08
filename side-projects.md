@@ -15,6 +15,7 @@
     maybe a ndc code lookup?
     - [ ] post this as a blog
 - [ ] detemine the IaC capabilities of aws connect
+- [ ] figure out how Cloudformation extensions works. Maybe publish a public extension
 - [ ] smart thermostat using rust. 
 - [ ] build a rust os. https://os.phil-opp.com/
 - [ ] could a data model be created to back an html based MUD?
