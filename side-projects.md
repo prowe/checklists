@@ -13,7 +13,7 @@
 - [x] serverless search service.
     https://docs.aws.amazon.com/opensearch-service/latest/developerguide/request-signing.html#request-signing-node
     maybe a ndc code lookup?
-    - [ ] post this as a blog
+    - [ ] post this as a blog [PR](https://github.com/sourceallies/sai-website/pull/1293)
 - [ ] detemine the IaC capabilities of aws connect
 - [ ] figure out how Cloudformation extensions works. Maybe publish a public extension
 - [ ] smart thermostat using rust. 
