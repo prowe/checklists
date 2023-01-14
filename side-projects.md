@@ -31,3 +31,5 @@
 - [ ] Can AWS AppSync be used with Apollo Federation somehow?
     https://aws.amazon.com/blogs/mobile/federation-appsync-subgraph/
 - [ ] read this rust concurrency book. https://marabos.nl/atomics/
+- [ ] a light weight way to render HTML in a lambda. 
+
