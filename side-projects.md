@@ -1,4 +1,4 @@
-## Side Projects
+no## Side Projects
 
 - [ ] Serverless federated GraphQL on Azure functions.
 - [ ] Serverless data warehouse by combining Redshift, and [DBT](https://www.getdbt.com/)
@@ -34,5 +34,9 @@
 - [ ] Can AWS AppSync be used with Apollo Federation somehow?
     https://aws.amazon.com/blogs/mobile/federation-appsync-subgraph/
 - [ ] read this rust concurrency book. https://marabos.nl/atomics/
-- [ ] a light weight way to render HTML in a lambda. 
+- [x] a light weight way to render HTML in a lambda.
+- [ ] rebuild the library
+- [ ] graph of sai data
+
+
 
