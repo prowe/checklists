@@ -1,7 +1,7 @@
 no## Side Projects
 
-- [ ] Serverless federated GraphQL on Azure functions.
-- [ ] Serverless data warehouse by combining Redshift, and [DBT](https://www.getdbt.com/)
+- [x] Serverless federated GraphQL on Azure functions.
+- [x] Serverless data warehouse by combining Redshift, and [DBT](https://www.getdbt.com/)
 - [ ] Build a mobile app
     - maybe Backgammon, Kyle would be interested in this
 - [ ] Create a federated graph of the Source Allies teammate/project data.
@@ -14,10 +14,10 @@ no## Side Projects
     https://docs.aws.amazon.com/opensearch-service/latest/developerguide/request-signing.html#request-signing-node
     maybe a ndc code lookup?
     - [ ] post this as a blog [PR](https://github.com/sourceallies/sai-website/pull/1293)
-- [ ] detemine the IaC capabilities of aws connect
+- [x] detemine the IaC capabilities of aws connect
 - [ ] figure out how Cloudformation extensions works. Maybe publish a public extension
 - [ ] smart thermostat using rust. 
-- [ ] build a rust os. https://os.phil-opp.com/
+- [x] build a rust os. https://os.phil-opp.com/
     -  Kyle
     -  Gene
     -  Jacobi
@@ -35,8 +35,7 @@ no## Side Projects
     https://aws.amazon.com/blogs/mobile/federation-appsync-subgraph/
 - [ ] read this rust concurrency book. https://marabos.nl/atomics/
 - [x] a light weight way to render HTML in a lambda.
-- [ ] rebuild the library
-- [ ] graph of sai data
+- [ ] Blog post on auto scaling down databases using step functions
 
 
 
