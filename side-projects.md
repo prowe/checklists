@@ -36,6 +36,5 @@ no## Side Projects
 - [ ] read this rust concurrency book. https://marabos.nl/atomics/
 - [x] a light weight way to render HTML in a lambda.
 - [ ] Blog post on auto scaling down databases using step functions
-
-
+- [ ] rust based smart contract 
 
