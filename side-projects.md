@@ -37,4 +37,4 @@ no## Side Projects
 - [x] a light weight way to render HTML in a lambda.
 - [ ] Blog post on auto scaling down databases using step functions
 - [ ] rust based smart contract 
-
+- [ ] some social post about Lit framework. 
