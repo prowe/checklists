@@ -23,6 +23,7 @@ no## Side Projects
     -  Jacobi
 - [ ] could a data model be created to back an html based MUD?
 - [ ] could geohashes be used for a MUD to store locations and the layout of the world (open world)
+- [ ] what would be a good rules system to captyre and evaluate a quest as a single file/record
 - [ ] create a project management tool as a hierarchy of tasks backed by a graph database. 
 - [ ] can react components be stored in a database, dynamically transpiled and fetched to the client for rendering?
 - [ ] generate a pdf in a lambda using react. 
