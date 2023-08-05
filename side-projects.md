@@ -41,3 +41,6 @@ no## Side Projects
 - [ ] rust based smart contract 
 - [ ] some social post about Lit framework.
 - [ ] create some mqtt iot thing that injests data. 
+- [ ] what about a web app that watches location data and streams itto IoT. Stores last location and watches others locations. 
+
+
