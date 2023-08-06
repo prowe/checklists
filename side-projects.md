@@ -1,4 +1,4 @@
-no## Side Projects
+my no## Side Projects
 
 - [x] Serverless federated GraphQL on Azure functions.
 - [x] Serverless data warehouse by combining Redshift, and [DBT](https://www.getdbt.com/)
@@ -43,4 +43,6 @@ no## Side Projects
 - [ ] create some mqtt iot thing that injests data. 
 - [ ] what about a web app that watches location data and streams itto IoT. Stores last location and watches others locations. 
 - [ ] zenefits webhook to replicate pto to a shared calendar. 
+- [ ] micro frontend (blog?) that combinnes lit js for common components and standard stylesheets
+
 
