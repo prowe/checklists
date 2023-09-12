@@ -23,7 +23,7 @@
     -  Jacobi
 - [ ] could a data model be created to back an html based MUD?
 - [ ] could geohashes be used for a MUD to store locations and the layout of the world (open world)
-- [ ] what would be a good rules system to captyre and evaluate a quest as a single file/record
+- [ ] what would be a good rules system to capture and evaluate a quest as a single file/record
 - [ ] create a project management tool as a hierarchy of tasks backed by a graph database. 
 - [ ] can react components be stored in a database, dynamically transpiled and fetched to the client for rendering?
 - [ ] generate a pdf in a lambda using react. 
@@ -37,7 +37,7 @@
     https://aws.amazon.com/blogs/mobile/federation-appsync-subgraph/
 - [ ] read this rust concurrency book. https://marabos.nl/atomics/
 - [x] a light weight way to render HTML in a lambda.
-- [ ] Blog post on auto scaling down databases using step functions
+- [x] Blog post on auto scaling down databases using step functions
 - [ ] rust based smart contract 
 - [x] some social post about Lit framework.
 - [ ] create some mqtt iot thing that injests data. 
