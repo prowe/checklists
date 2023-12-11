@@ -44,5 +44,5 @@
 - [ ] what about a web app that watches location data and streams itto IoT. Stores last location and watches others locations. 
 - [ ] zenefits webhook to replicate pto to a shared calendar. 
 - [x] micro frontend (blog?) that combinnes lit js for common components and standard stylesheets. maybe demo this with different front end frameworks. 
-
+- [ ] could a custom react renderer be used to manage a database schema?
 
